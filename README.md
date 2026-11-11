@@ -33,7 +33,7 @@ Un rediseño no oficial de la app de Cines Unidos (Venezuela), hecho como ejerci
 
 Todo lo que se muestra viene de información pública de cinesunidos.com: cartelera, horarios, precios, promociones, cines y catálogo del Club. Lo que Cines Unidos no expone sin iniciar sesión (mapa de asientos real, saldo de puntos) se simula y se marca como demo en la interfaz. Las fotos de los cines son de Wikimedia Commons, con su autor y licencia visibles en la app.
 
-Concepto inspirado en el trabajo de Ramin Nasibov. Proyecto independiente, sin relación con Cines Unidos.
+Concepto inspirado en el trabajo de mejorar la aplicacion. Proyecto independiente, sin relación con Cines Unidos.
 
 ## Tecnología
 
